@@ -1,0 +1,26 @@
+Types of Recommender Systems are:-
+
+1) Content Based :- 
+--- On the similarities of the content basically through tags.
+Start-ups companies do on the content based machine learning.
+2) Collaborative Filtering :-
+--- On the basics of user similarities the content is been shared.
+For ex- if user A has watched the movie M1 and same movie is watched by user 2 and both love that movie that means they have similarities in them so now if user 1 watched movie M2 that means and he/she likes the movie so the same movie can be recommended to user 2 as we know that both have same similarities in them.
+
+Basically the small companies do collaborative filtering kind of machine learning.
+
+3) Hybrid :-
+--- This is nothing a mixture of both Content based and Collaborative filtering as now big companies follow this thing.
+
+As 5 year's ago "Youtube" is based on Content based but now it's based on hybrid based as which movie i like they will recommended that as well as the user who like your type of movie is also recommended in your feed. 
+
+
+ 
+Project Overflow :
+
+1) Data
+2) Preprocessing
+3) Model
+4) Website
+5) Deploy
+
